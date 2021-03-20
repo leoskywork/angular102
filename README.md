@@ -13,7 +13,7 @@ a playground for angular and the following tech
 
 ---
 
-## Auto generated ------------------------------------------------------------------------------------
+## Auto generated ---------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
