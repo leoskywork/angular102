@@ -1,0 +1,24 @@
+/* Define standard variables and values for website */
+$bgColor: lightblue;
+$textColor: darkslategray;
+$fontSize: 18px;
+
+/* Use the variables */
+body {
+  background-color: $bgColor;
+  color: $textColor;
+  font-size: $fontSize;
+}
+
+#app-link-container {
+    text-align: center;
+}
+
+/* reset */
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}

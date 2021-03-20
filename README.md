@@ -1,5 +1,20 @@
 # Angular102
 
+a playground for angular and the following tech
+
+- SCSS
+- webpack
+
+## todo
+
+- [ ] play SCSS (sassy CSS)
+  - [ ] one file
+  - [ ] multi files
+
+---
+
+## Auto generated ------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
